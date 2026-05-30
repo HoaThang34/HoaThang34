@@ -1,4 +1,4 @@
-<h1 align="center">Hòa Quang Thắng</h1>
+<h1 align="center">Quang Thang Hoa</h1>
 
 <p align="center">
   <b>Specialized IT Student • Competitive Programmer • Developer • Designer</b>
