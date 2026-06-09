@@ -18,7 +18,7 @@
 - 🚀 Interested in AI, Web Development and Product Building
 - 🎨 Passionate about UI/UX and minimalist design
 - 📚 Currently learning:
-  - Advanced C++14
+  - Advanced C/C++
   - Data Structures & Algorithms
   - Backend / Frontend Development
   - AI-powered applications
